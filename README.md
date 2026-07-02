@@ -57,4 +57,4 @@ END
 System Analysis Stream:
 📁 SOURCE DOCUMENT: sample_2.pdf
 =========================================
-[Fact-driven comparative synthesis streamed token-by-token directly from local GPU bou
+[Fact-driven comparative synthesis streamed token-by-token directly from local GPU boundaries]
